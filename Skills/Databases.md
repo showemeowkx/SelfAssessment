@@ -1,15 +1,15 @@
 ## Databases
 
 - Theory and concepts
-  - Data types u
+  - Data types: 🖐️ used
   - Performance tuning
   - Migrations
   - Schema versioning
   - Backup and recovery
   - Database scalability
   - Relational databases
-  - Key-value store k
-  - Tuple store ~
+  - Key-value store: 🎓 known
+  - Tuple store: 👂 heard
   - Graph databases
   - Object databases
   - Column databases
@@ -31,40 +31,40 @@
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions u
+  - SQL functions: 🖐️ used
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` u
-  - `INSERT` u
-  - `UPDATE` u
-  - `DELETE` u
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
   - `LIMIT`
   - `OFFSET`
   - `ORDER BY`
   - `GROUP BY`
   - `HAVING`
-  - `EXISTS` u
-  - `JOIN` u
+  - `EXISTS`: 🖐️ used
+  - `JOIN`: 🖐️ used
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE` u
+  - `WHERE`: 🖐️ used
   - `LIKE`
-  - `IN` u
+  - `IN`: 🖐️ used
   - `BETWEEN`
-  - `CREATE TABLE` u
+  - `CREATE TABLE`: 🖐️ used
   - `ALTER TABLE`
   - `DROP TABLE`
   - `PRIMARY KEY`
   - `FOREIGN KEY`
   - `CHECK`
-  - `DEFAULT` ~
+  - `DEFAULT`: 👂 heard
   - `INDEX`
-  - `UNIQUE` u
+  - `UNIQUE`: 🖐️ used
   - `GRANT`
   - `REVOKE`
   - `DENY`
@@ -81,7 +81,7 @@
   - Memcached
   - Riak
   - DB2
-  - SQLite u
+  - SQLite: 🖐️ used
   - DynamoDB
   - Firebase
 - Data engineering
