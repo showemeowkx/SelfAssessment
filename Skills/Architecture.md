@@ -18,10 +18,10 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
+  - Reliability ~
+  - Quality ~
   - Availability
-  - Flexibility
+  - Flexibility ~
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer

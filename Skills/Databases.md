@@ -1,15 +1,15 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types u
   - Performance tuning
   - Migrations
   - Schema versioning
   - Backup and recovery
   - Database scalability
   - Relational databases
-  - Key-value store
-  - Tuple store
+  - Key-value store k
+  - Tuple store ~
   - Graph databases
   - Object databases
   - Column databases
@@ -31,40 +31,40 @@
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions u
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `SELECT` u
+  - `INSERT` u
+  - `UPDATE` u
+  - `DELETE` u
   - `LIMIT`
   - `OFFSET`
   - `ORDER BY`
   - `GROUP BY`
   - `HAVING`
-  - `EXISTS`
-  - `JOIN`
+  - `EXISTS` u
+  - `JOIN` u
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE`
+  - `WHERE` u
   - `LIKE`
-  - `IN`
+  - `IN` u
   - `BETWEEN`
-  - `CREATE TABLE`
+  - `CREATE TABLE` u
   - `ALTER TABLE`
   - `DROP TABLE`
   - `PRIMARY KEY`
   - `FOREIGN KEY`
   - `CHECK`
-  - `DEFAULT`
+  - `DEFAULT` ~
   - `INDEX`
-  - `UNIQUE`
+  - `UNIQUE` u
   - `GRANT`
   - `REVOKE`
   - `DENY`
@@ -81,7 +81,7 @@
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite u
   - DynamoDB
   - Firebase
 - Data engineering
