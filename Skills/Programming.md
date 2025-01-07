@@ -4,63 +4,63 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm u
-  - Syntax u
-  - Semantics
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
+  - Semantics: 👂 heard
   - Abstraction
-  - Paradigm
-  - Programm u
-  - Programming paradigm
-  - Programming language u
+  - Paradigm: 🎓 known
+  - Programm: 🖐️ used
+  - Programming paradigm: 🖐️ used
+  - Programming language: 🖐️ used
   - Contract
-  - Module u
-  - Library u
+  - Module: 🖐️ used
+  - Library: 🖐️ used
   - Package
   - Component
-  - Framework u
+  - Framework: 🖐️ used
   - Platform
-  - Source code ~
+  - Source code: 🖐️ used
   - Object code
-  - Machine code ~
+  - Machine code: 🎓 known
   - Microcode
-  - Software engineering
+  - Software engineering: 👂 heard
   - Decomposition
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse: 👂 heard
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value u
-  - Identifier u
-  - Variable u
-  - Constant u
-  - Scalar
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar: 👂 heard
   - Literal
-  - Expression u
+  - Expression: 🖐️ used
   - Heap
-  - Function u
-  - Procedure ~
-  - Method u
-  - Class u
-  - Prototype u
+  - Function: 🖐️ used
+  - Procedure: 👂 heard
+  - Method: 🖐️ used
+  - Class: 🖐️ used
+  - Prototype: 🖐️ used
   - Event
-  - Type
+  - Type: 👂 heard
   - Flag
   - Lexical scope
-  - Code block u
-  - Conditions u
-  - Loops u
+  - Code block: 🖐️ used
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
   - Assignment
   - Regular expression
   - Interface
-  - Namespaces
+  - Namespaces: 👂 heard
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case +
-  - Snake case +
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
   - Kebab case
   - Trailing commas
   - Return early
@@ -81,54 +81,54 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature u
-  - Argument u
-  - Parameter u
+  - Signature: 🖐️ used
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
   - Pure function
-  - Lambda expression u
+  - Lambda expression: 🖐️ used
   - Side effects
-  - Closure
+  - Closure: 🖐️ used
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion: 🎓 known
   - Tail call optimisation
-  - Callback u
-  - Listener
-  - Composition
-  - Pipe
+  - Callback: 🖐️ used
+  - Listener: 👂 heard
+  - Composition: 🖐️ used
+  - Pipe: 🖐️ used
   - Memoize
-  - Wrapper
+  - Wrapper: 🖐️ used
   - Functor
   - Monad
   - Monoid
   - Generator
   - Coroutine
 - Data structures
-  - Array u
+  - Array: 🖐️ used
   - Structure
   - Record
   - Enum
   - Instance
-  - Object u
+  - Object: 🖐️ used
   - Collection
-  - Set ~
-  - Hash table
-  - Linked list
+  - Set: 👂 heard
+  - Hash table: 📢 talked
+  - Linked list: 📢 talked
   - Doubly list
   - Unrolled list
   - Circular list
   - Queue
   - Stack
   - Deque
-  - Tree
+  - Tree: 👂 heard
   - Graph
   - Iterator
   - Mutable state
   - Immutable state
   - Serialization
   - String parsing
-  - JSON u
+  - JSON: 🖐️ used
   - JSON5
   - YAML
 - Networking
@@ -142,37 +142,37 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter: 🖐️ used
   - Polyfill
   - Interpreter
   - Linker
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine ~
+  - Virtual machine: 🖐️ used
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger ~
+  - Debugger: 🖐️ used
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring: 🖐️ used
+  - Code review: 👂 heard
   - Exception
   - Unittesting
-  - git
-  - Github ~
-  - Docker
+  - git: 🖐️ used
+  - Github: 🖐️ used
+  - Docker: 👂 heard
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
   - Magic numbers
-  - Hard code
+  - Hard code: 👂 heard
   - Soft code
   - Cryptic code
   - Improbability factor
@@ -182,18 +182,18 @@
   - Silver bullet
   - Not invented here
   - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Unreachable code: 🎓 known
+  - Duplicate code: 🎓 known
   - Premature optimization
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
+  - Nested loops: 🎓 known
+  - Long method/function/procedure: 🎓 known
   - Long inheritance
   - Large class/file
-  - Too many parameters
+  - Too many parameters: 🎓 known
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case: 🎓 known
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -203,7 +203,7 @@
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
-  - V8
+  - V8: 👂 heard
   - VJM
   - CLR
   - Mono
@@ -214,15 +214,15 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux: 👂 heard
   - Unix
   - BSD
   - MacOS
-  - Windows u
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII: 🎓 known
   - Escape sequence
   - RFC
   - IETF
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8 u
+  - UTF-8: 🖐️ used
   - W3C
   - ODMG
