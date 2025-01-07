@@ -1,19 +1,19 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
+  - Procedural programming u
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming u
   - Prototype-based programming
   - Object-oriented programming u
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
-  - Reactive programming
+  - Asynchronous programming +
+  - Parallel programming ~
+  - Reactive programming ~
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
@@ -27,14 +27,14 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor +
-  - Operator `new` +
-  - Static method
-  - Method +
-  - Async method
+  - Constructor u
+  - Operator `new` u
+  - Static method ~
+  - Method u
+  - Async method ~
   - Getters, Setters
-  - Public fields
-  - Private fields
+  - Public fields ~
+  - Private fields ~
   - Field declarations
   - Inheritance +
   - Parent class +
@@ -58,7 +58,7 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
+  - Single-responsibility principle (SRP) +
   - Open–closed principle (OCP)
   - Liskov substitution principle (LSP)
   - Interface segregation principle (ISP)

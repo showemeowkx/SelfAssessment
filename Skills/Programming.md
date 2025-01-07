@@ -6,11 +6,11 @@
   - Subject domain
   - Algorithm u
   - Syntax u
-  - Semantics
+  - Semantics ~
   - Abstraction
-  - Paradigm
+  - Paradigm +
   - Programm u
-  - Programming paradigm
+  - Programming paradigm u
   - Programming language u
   - Contract
   - Module u
@@ -19,15 +19,15 @@
   - Component
   - Framework u
   - Platform
-  - Source code ~
+  - Source code u
   - Object code
-  - Machine code ~
+  - Machine code +
   - Microcode
-  - Software engineering
+  - Software engineering ~
   - Decomposition
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse ~
   - Defensive programming
   - Don't repeat yourself (DRY)
   - KISS principle
@@ -36,7 +36,7 @@
   - Identifier u
   - Variable u
   - Constant u
-  - Scalar
+  - Scalar ~
   - Literal
   - Expression u
   - Heap
@@ -46,7 +46,7 @@
   - Class u
   - Prototype u
   - Event
-  - Type
+  - Type ~
   - Flag
   - Lexical scope
   - Code block u
@@ -55,12 +55,12 @@
   - Assignment
   - Regular expression
   - Interface
-  - Namespaces
+  - Namespaces ~
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case +
-  - Snake case +
+  - Camel case u
+  - Snake case u
   - Kebab case
   - Trailing commas
   - Return early
@@ -87,18 +87,18 @@
   - Pure function
   - Lambda expression u
   - Side effects
-  - Closure
+  - Closure u
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion +
   - Tail call optimisation
   - Callback u
-  - Listener
-  - Composition
-  - Pipe
+  - Listener ~
+  - Composition u
+  - Pipe u
   - Memoize
-  - Wrapper
+  - Wrapper u
   - Functor
   - Monad
   - Monoid
@@ -113,15 +113,15 @@
   - Object u
   - Collection
   - Set ~
-  - Hash table
-  - Linked list
+  - Hash table "
+  - Linked list "
   - Doubly list
   - Unrolled list
   - Circular list
   - Queue
   - Stack
   - Deque
-  - Tree
+  - Tree ~
   - Graph
   - Iterator
   - Mutable state
@@ -142,37 +142,37 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler u
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter
+  - Linter u
   - Polyfill
   - Interpreter
   - Linker
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine ~
+  - Virtual machine u
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger ~
+  - Debugger u
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
+  - Refactoring u
+  - Code review ~
   - Exception
   - Unittesting
-  - git
-  - Github ~
-  - Docker
+  - git u
+  - Github u
+  - Docker ~
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
   - Magic numbers
-  - Hard code
+  - Hard code ~
   - Soft code
   - Cryptic code
   - Improbability factor
@@ -182,18 +182,18 @@
   - Silver bullet
   - Not invented here
   - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Unreachable code +
+  - Duplicate code +
   - Premature optimization
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
+  - Nested loops +
+  - Long method/function/procedure +
   - Long inheritance
   - Large class/file
-  - Too many parameters
+  - Too many parameters +
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case +
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -203,7 +203,7 @@
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
-  - V8
+  - V8 ~
   - VJM
   - CLR
   - Mono
@@ -214,7 +214,7 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux ~
   - Unix
   - BSD
   - MacOS
@@ -222,7 +222,7 @@
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII +
   - Escape sequence
   - RFC
   - IETF

@@ -19,10 +19,10 @@
   - `typeof` u
   - Destructuring u
   - Generators
-  - Iterators
+  - Iterators u
   - Async generator
   - Async iterator
-  - Chaining
+  - Chaining u
   - Optional chaining
   - IIFE
   - Async IIFE
@@ -35,7 +35,7 @@
   - Equality operators u
   - Logical operators u
   - Logical Assignment
-  - Bitwise operators
+  - Bitwise operators +
   - Ternary operator +
   - `void` +
   - `yield`
@@ -47,17 +47,17 @@
   - `in` u
   - `super`
   - `eval` ~
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `static` ~
+  - `Number.parseInt` u
+  - `Number.parseFloat` +
   - Property descriptors
   - Sealing properties
   - Freezing properties
   - Computed properties
   - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Static class fields ~
+  - Private class fields ~
+  - Private class methods ~
 - Statements
   - `if` u
   - `while` u
@@ -73,7 +73,7 @@
   - `export` u
   - `label`
   - `try..catch` u
-  - `switch`
+  - `switch` +
   - `class` u
   - `extends` +
   - `with`
@@ -84,25 +84,25 @@
   - Function declaration u
   - Function expression +
   - Default parameters +
-  - Functional object
+  - Functional object ~
   - `Function.prototype.call`
   - `Function.prototype.bind`
   - `Function.prototype.apply`
-  - `return`
+  - `return` u
 - Data structures
   - `Array` u
-  - `Map`
-  - `Set`
+  - `Map` +
+  - `Set` +
   - `WeakMap`
   - `WeakSet`
-  - Typed arrays
-  - Mixins
+  - Typed arrays ~
+  - Mixins ~
   - `Object.assign`
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
   - `Date` ~
-  - `Math` ~
+  - `Math` u
   - `Reflect`
   - `Error` u
   - `Atomics`
@@ -111,12 +111,12 @@
   - `FinalizationRegistry`
   - `Intl`
   - `Promise` ~
-  - `console` U
+  - `console` u
   - Timers
 - Infrastructure
-  - V8
-  - Node.js ~
-  - npm ~
+  - V8 ~
+  - Node.js +
+  - npm u
   - prettier u
   - MDN
   - TC39
