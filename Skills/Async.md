@@ -1,57 +1,57 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch` ~
+  - Event loop +
+  - `try..catch` *
   - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
+  - Async I/O *
+  - Thread pool +
+  - Pattern Reactor ~
   - CAS operations
   - epoll
   - kqueue
   - Completion ports
   - Event ports
-  - libuv
+  - libuv ~
   - Race conditions
   - Dead locks
   - Live locks
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
-  - Process
+  - Thread ~
+  - Process ~
 - Async contracts
-  - Callbacks ~
+  - Callbacks *
   - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
+  - Thenable +
+  - Promise *
+  - Async/await 
   - Future
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
+  - Sync generator +
+  - Async Generator +
+  - Async Iterator +
+  - Event *
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
-  - Chain of responsibility
-  - Middleware
+  - Stream *
+  - Chain of responsibility ~
+  - Middleware ~
   - Locks
 - Async adapters and utils
-  - callbackify
-  - promisify
-  - asyncify
+  - callbackify ~
+  - promisify ~
+  - asyncify ~
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
-  - Readable
-  - Writable
-  - Transform
+  - EventEmitter *
+  - Observable/Observer *
+  - Readable *
+  - Writable *
+  - Transform *
   - Async Pool
   - Async Queue
   - Async Collector
@@ -59,9 +59,9 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - `setImmediate`
-  - `nextTick`
+  - Timers +
+  - `setImmediate` *
+  - `nextTick` +
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
@@ -71,14 +71,14 @@
   - Callback hell
   - Promise hell
   - ref() and unref()
-  - Error handling in async code
+  - Error handling in async code *
   - Better stack traces with return await
-  - JSON streaming serialization
+  - JSON streaming serialization +
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
   - Async.js library
-  - RxJS library
+  - RxJS library +
   - Promise.all
   - Promise.allSettled
   - Promise.race

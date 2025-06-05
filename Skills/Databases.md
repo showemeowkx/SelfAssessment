@@ -1,14 +1,14 @@
 ## Databases
 
 - Theory and concepts
-  - Data types u
+  - Data types !
   - Performance tuning
   - Migrations
   - Schema versioning
   - Backup and recovery
   - Database scalability
-  - Relational databases
-  - Key-value store k
+  - Relational databases *
+  - Key-value store +
   - Tuple store ~
   - Graph databases
   - Object databases
@@ -31,32 +31,32 @@
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions u
+  - SQL functions *
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` u
-  - `INSERT` u
-  - `UPDATE` u
-  - `DELETE` u
+  - `SELECT` *
+  - `INSERT` *
+  - `UPDATE` *
+  - `DELETE` *
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY`
+  - `ORDER BY` *
   - `GROUP BY`
   - `HAVING`
-  - `EXISTS` u
-  - `JOIN` u
+  - `EXISTS` *
+  - `JOIN` *
   - `INNER JOIN`
-  - `LEFT JOIN`
+  - `LEFT JOIN` *
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE` u
-  - `LIKE`
-  - `IN` u
+  - `WHERE` *
+  - `LIKE` *
+  - `IN` *
   - `BETWEEN`
-  - `CREATE TABLE` u
+  - `CREATE TABLE` *
   - `ALTER TABLE`
   - `DROP TABLE`
   - `PRIMARY KEY`
@@ -64,31 +64,31 @@
   - `CHECK`
   - `DEFAULT` ~
   - `INDEX`
-  - `UNIQUE` u
+  - `UNIQUE` *
   - `GRANT`
   - `REVOKE`
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
+  - PostgreSQL *
   - Oracle
-  - MySQL
+  - MySQL ~
   - MariaDB
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB
+  - MongoDB ~
   - Memcached
   - Riak
   - DB2
-  - SQLite u
+  - SQLite *
   - DynamoDB
   - Firebase
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data
-  - Data analysis
-  - AI tools
+  - Big data ~
+  - Data analysis ~
+  - AI tools ~
   - Cloud databases
   - Data Visualization

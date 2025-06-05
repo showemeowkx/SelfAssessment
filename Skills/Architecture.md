@@ -1,20 +1,20 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns
+  - Separation of concerns *
   - Inversion of Control
-  - Dependency Injection
-  - GoF Creational
-  - GoF Structural
-  - GoF Behavioral
-  - GRASP
-  - SOLID
+  - Dependency Injection *
+  - GoF Creational ~
+  - GoF Structural ~
+  - GoF Behavioral ~
+  - GRASP ~
+  - SOLID +
   - CQS
   - Modularity
   - Subsystems
   - Directories
   - Leaking abstractions
-  - Multiparadigm code
+  - Multiparadigm code *
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
@@ -34,10 +34,10 @@
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
-  - Separation of concerns (SoC)
+  - Separation of concerns (SoC) *
   - Metaprogramming
   - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Dependency injection (DI) *
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
