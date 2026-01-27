@@ -1,45 +1,45 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js ~
+  - Strong and weak sides of node.js: 👂 heard
   - Stateful and stateless servers
-  - Nonblocking I/O and blocking code
-  - Event loop phases +
-  - Event loop microtasks and macrotasks ~
-  - Garbage collection ~
+  - Nonblocking I/O and blocking code: 👂 heard
+  - Event loop phases: 🎓 known
+  - Event loop microtasks and macrotasks: 👂 heard
+  - Garbage collection: 👂 heard
   - Node.js LTS schedule
-  - I/O-bound, CPU-bound, memory-bound tasks
+  - I/O-bound, CPU-bound, memory-bound tasks: 👂 heard
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules !
-  - ECMAScript modules !
+  - CommonJS modules: 🙋 explained
+  - ECMAScript modules: 🙋 explained
   - Module `node:module`
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules` *
-  - Files `package.json`, `package-lock.json` *
+  - Dependencies: `npm`, `node_modules`: 🖐️ used
+  - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection *
+  - Dependency injection: 🖐️ used
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments *
-  - Node.js CLI +
-  - Process-based permissions ~
+  - Command line arguments: 🖐️ used
+  - Node.js CLI: 🎓 known
+  - Process-based permissions: 👂 heard
   - Graceful shutdown
-  - Clustering ~
-  - Watch filesystem changes with --watch *
+  - Clustering: 👂 heard
+  - Watch filesystem changes with --watch: 🖐️ used
 - Internal API
-  - Streams API ~
-  - Web Streams API ~
-  - Crypto API
+  - Streams API: 👂 heard
+  - Web Streams API: 👂 heard
+  - Crypto API: 👂 heard
   - Password hashing with crypto.scrypt
-  - Web Crypto API
-  - File system API (sync and async) *
-  - Copy folder recursively *
+  - Web Crypto API: 👂 heard
+  - File system API (sync and async): 🖐️ used
+  - Copy folder recursively: 🖐️ used
   - Worker threads
   - Performance hooks
   - Native fetch and nodejs/undici
@@ -53,7 +53,7 @@
   - Module `node:child_process`
   - MessageChannel, MessagePort
   - BroadcastChannel
-  - Generating crypto random UUID *
+  - Generating crypto random UUID: 🖐️ used
   - Module `node:url` vs `new URL`
   - Module `node:assert`
   - Internationalization
@@ -65,63 +65,63 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API +
+  - Fetch API: 🎓 known
   - IncomingMessage
-  - HTTP(S) *
-  - TCP/SSL
-  - UDP +
+  - HTTP(S): 🖐️ used
+  - TCP/SSL: 🎓 known
+  - UDP: 🎓 known
   - TLS
-  - Websocket
+  - Websocket: 👂 heard
   - SSE
-  - HTTP/3 (QUIC) ~
+  - HTTP/3 (QUIC): 👂 heard
   - Long polling
-  - REST ~
+  - REST: 🖐️ used
   - RPC
-  - Routing *
+  - Routing: 🖐️ used
   - DoS
   - DDoS
   - XSS
-  - Path traversal +
+  - Path traversal: 🎓 known
   - CSRF
-  - DNS +
+  - DNS: 🎓 known
   - SQL injection
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging *
+  - Logging: 🖐️ used
   - Application configuring
-  - Testing
+  - Testing: 👂 heard
   - CI/CD
-  - Readable *
-  - Writable *
-  - Transform *
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
+  - Transform: 🖐️ used
   - Back pressure
-  - Buffer ~
+  - Buffer: 👂 heard
   - Console
   - Inspector
 - Data access
-  - Data access layer ~
-  - Repository *
+  - Data access layer: 👂 heard
+  - Repository: 🖐️ used
   - Active record
-  - Query builder *
+  - Query builder: 🖐️ used
   - Object-Relational Mapping
-  - CRUD *
-  - DTO !
+  - CRUD: 🖐️ used
+  - DTO: 🙋 explained
 - Error handling and debugging
-  - `Error` *
+  - `Error`: 🖐️ used
   - `error.cause`
-  - `error.code` *
-  - `error.message` *
-  - `error.stack` *
+  - `error.code`: 🖐️ used
+  - `error.message`: 🖐️ used
+  - `error.stack`: 🖐️ used
   - `Error.captureStackTrace`
   - How to avoid mixins
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools *
+  - Debugging tools: 🖐️ used
   - Flame graph
-  - Memory leaks
+  - Memory leaks: 👂 heard
   - Resource leaks
   - Data race
 - Integrations and bindings
